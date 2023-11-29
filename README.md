@@ -1,5 +1,7 @@
 # Information
-[ C++ ] Visual Studio / Dierect X / 2D
+1. Language : C++
+2. Tool : Visual Studio → Dierect X
+3. GameType : 2D
 
 # Update Log
 1. [ 2023-11-29 수요일 1341 ] 저장소 생성
