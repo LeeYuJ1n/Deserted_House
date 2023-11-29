@@ -3,7 +3,7 @@
 2. Tool : Visual Studio → Dierect X
 3. GameType : 2D
 
-# Update Log
+# Update
 1. [ 2023-11-29 수요일 1341 ] 저장소 생성
 2. [ 2023-11-29 수요일 1344 ] 파일 업로드
 3. [ 2023-11-29 수요일 1527 ] README.md 파일 내용 수정
