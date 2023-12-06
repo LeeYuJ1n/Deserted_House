@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:307883dc580f6a66146643b5aea2ffdc:f7a9c0f9b0c52f2a7bffc9965d3cd661:5f6d3fe8a627ac0f682cdfa2d6d34b0f$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="Ninja_Run.png" width="115" height="1580">
+    <sprite n="Run__000.png" x="1" y="1" w="113" h="156" pX="0.5" pY="0.5"/>
+    <sprite n="Run__001.png" x="1" y="159" w="113" h="156" pX="0.5" pY="0.5"/>
+    <sprite n="Run__002.png" x="1" y="317" w="113" h="156" pX="0.5" pY="0.5"/>
+    <sprite n="Run__003.png" x="1" y="475" w="113" h="156" pX="0.5" pY="0.5"/>
+    <sprite n="Run__004.png" x="1" y="633" w="113" h="156" pX="0.5" pY="0.5"/>
+    <sprite n="Run__005.png" x="1" y="791" w="113" h="156" pX="0.5" pY="0.5"/>
+    <sprite n="Run__006.png" x="1" y="949" w="113" h="156" pX="0.5" pY="0.5"/>
+    <sprite n="Run__007.png" x="1" y="1107" w="113" h="156" pX="0.5" pY="0.5"/>
+    <sprite n="Run__008.png" x="1" y="1265" w="113" h="156" pX="0.5" pY="0.5"/>
+    <sprite n="Run__009.png" x="1" y="1423" w="113" h="156" pX="0.5" pY="0.5"/>
+</TextureAtlas>

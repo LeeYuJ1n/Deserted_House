@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:a3021889c707d658f7a9eed0f8a5a5bd:486bb4fbb6502681feab20dacb6ab1e8:4efaed67af485ea01e7e55bbf0323ffa$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="Ninja_Dead.png" width="1750" height="182">
+    <sprite n="Dead__000.png" x="1" y="1" w="173" h="180" pX="0.5" pY="0.5"/>
+    <sprite n="Dead__001.png" x="176" y="1" w="173" h="180" pX="0.5" pY="0.5"/>
+    <sprite n="Dead__002.png" x="351" y="1" w="173" h="180" pX="0.5" pY="0.5"/>
+    <sprite n="Dead__003.png" x="526" y="1" w="173" h="180" pX="0.5" pY="0.5"/>
+    <sprite n="Dead__004.png" x="701" y="1" w="173" h="180" pX="0.5" pY="0.5"/>
+    <sprite n="Dead__005.png" x="876" y="1" w="173" h="180" pX="0.5" pY="0.5"/>
+    <sprite n="Dead__006.png" x="1051" y="1" w="173" h="180" pX="0.5" pY="0.5"/>
+    <sprite n="Dead__007.png" x="1226" y="1" w="173" h="180" pX="0.5" pY="0.5"/>
+    <sprite n="Dead__008.png" x="1401" y="1" w="173" h="180" pX="0.5" pY="0.5"/>
+    <sprite n="Dead__009.png" x="1576" y="1" w="173" h="180" pX="0.5" pY="0.5"/>
+</TextureAtlas>

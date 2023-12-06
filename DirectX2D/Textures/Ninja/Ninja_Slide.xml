@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:327bae3915bb0142e2ebcec82be6b52f:fb675a55409f0e0cdb1750bdff990ddc:968e617f80b518dda83aa739ae30c0f1$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="Ninja_Slide.png" width="1210" height="122">
+    <sprite n="Slide__000.png" x="1" y="1" w="119" h="120" pX="0.5" pY="0.5"/>
+    <sprite n="Slide__001.png" x="122" y="1" w="119" h="120" pX="0.5" pY="0.5"/>
+    <sprite n="Slide__002.png" x="243" y="1" w="119" h="120" pX="0.5" pY="0.5"/>
+    <sprite n="Slide__003.png" x="364" y="1" w="119" h="120" pX="0.5" pY="0.5"/>
+    <sprite n="Slide__004.png" x="485" y="1" w="119" h="120" pX="0.5" pY="0.5"/>
+    <sprite n="Slide__005.png" x="606" y="1" w="119" h="120" pX="0.5" pY="0.5"/>
+    <sprite n="Slide__006.png" x="727" y="1" w="119" h="120" pX="0.5" pY="0.5"/>
+    <sprite n="Slide__007.png" x="848" y="1" w="119" h="120" pX="0.5" pY="0.5"/>
+    <sprite n="Slide__008.png" x="969" y="1" w="119" h="120" pX="0.5" pY="0.5"/>
+    <sprite n="Slide__009.png" x="1090" y="1" w="119" h="120" pX="0.5" pY="0.5"/>
+</TextureAtlas>
