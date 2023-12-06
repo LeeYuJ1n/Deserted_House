@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<TextureAtlas imagePath="Player_Idle.png" width="640" height="128">
-    <sprite n="Idle__000.png" x="1" y="1" w="128" h="128" pX="0.5" pY="0.5"/>
-    <sprite n="Idle__001.png" x="128" y="1" w="128" h="128" pX="0.5" pY="0.5"/>
-    <sprite n="Idle__002.png" x="256" y="1" w="128" h="128" pX="0.5" pY="0.5"/>
-    <sprite n="Idle__003.png" x="512" y="1" w="128" h="128" pX="0.5" pY="0.5"/>
-    <sprite n="Idle__004.png" x="1024" y="1" w="128" h="128" pX="0.5" pY="0.5"/>
-</TextureAtlas>
