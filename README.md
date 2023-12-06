@@ -1,6 +1,3 @@
-# Memo
-프로젝트를 실행하실 때는 꼭 모든 파일은 DirectX라는 폴더를 생성 후 안에다 넣어 주신 후 sln파일을 실행해주세요
-
 # Information
 1. Language : C++
 2. Tool : Visual Studio → Dierect X
